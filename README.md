@@ -1,4 +1,6 @@
-### Hi there 👋
+### 👋 Ahoy!
+
+I also make some TTRPG and old school game stuff over here ~ 🔥 [torch.supply](https://github.com/torch-supply)
 
 <!--
 **lucasishuman/lucasishuman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
